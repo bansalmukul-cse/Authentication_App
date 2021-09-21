@@ -1,9 +1,6 @@
 # Authentication-App
 
-This is Android app in which user can registered itself ,from their respective email id.
-A link has to be sent on Email id for verifucation.
-After register user can go to home page from that home page he can log out also.
-If the user has an acoount already, then he must have log in.
+This is an Android app in which users can register themselves, from their respective email id. A link has to be sent on the Email id for verification. After register user can go to the home page from that home page he can log out also. If the user has an account already, then he must have login.
 
 # Technologies used:-
 XML, Java, Android, Firebase
