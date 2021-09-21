@@ -12,7 +12,14 @@ XML, Java, Android, Firebase
 Screenshots
 -----------
 
+#  1. Register Page 
 <img width="20%" src="screenshots/1.jpeg" />
+
+
+#  2.Home Page
 <img width="20%" src="screenshots/2.jpeg" />
+
+
+#  3.Login Page
 <img width="20%" src="screenshots/3.jpeg" />
 
