@@ -12,7 +12,7 @@ XML, Java, Android, Firebase
 Screenshots
 -----------
 
-<img width="30%" src="screenshots/1.jpeg" />
-<img width="30%" src="screenshots/2.jpeg" />
-<img width="30%" src="screenshots/3.jpeg" />
+<img width="20%" src="screenshots/1.jpeg" />
+<img width="20%" src="screenshots/2.jpeg" />
+<img width="20%" src="screenshots/3.jpeg" />
 
